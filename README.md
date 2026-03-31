@@ -54,7 +54,7 @@ The following plots are included in the analysis:
 
 ##  User Step by Step Guide
 
-### Step 1: Download the Repository
+#### Step 1: Download the Repository
 Download this repository to your computer.
 
 ### Step 2: Add Data Files
