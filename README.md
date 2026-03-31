@@ -47,9 +47,9 @@ The following plots are included in the analysis:
   Variables: `vehicle_type` vs `vehicle_age`  
   Purpose: Compare vehicle age across categories  
 
-- **Time-Series Plots (NGSIM)**  
-  - Leader vs follower speed  
-  - Vehicle spacing over time  
+- **Time-Series Plots (NGSIM)**    
+  - Vehicle Gap Distance and Postion
+  - Vehicle Speed and Acceleration
 
 
 ##  User Step by Step Guide
